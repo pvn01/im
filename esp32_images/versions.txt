@@ -1,1 +1,2 @@
-version, date, description
+// version,date time,description(name:hw:partition_type:partition_size)
+1.0.0,2022-12-10T,im:esp32:maxspiffs:1.5MB
