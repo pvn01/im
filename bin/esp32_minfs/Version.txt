@@ -1,2 +1,2 @@
-// version,date time,description(name:hw:partition_type:partition_size)
-1.0.0,2022-12-10 11AM,im:esp32:minspiffs:190KB
+// version,date time,description(fname:hw:partition_type:partition_size)
+1.0.0,2022-12-10 11AM,test_esp32_1.0.0.bin:esp32:minspiffs:190KB
