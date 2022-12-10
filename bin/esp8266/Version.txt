@@ -1,0 +1,2 @@
+// version,date time,description(name:hw:fs_partition_type:fs_partition_size)
+1.0.0,2022-12-10T,im:esp8266:spiffs:2MB
