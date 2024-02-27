@@ -1,2 +1,0 @@
-// version,date time,description(fname:hw:partition_type:partition_size)
-1.0.0,2022-12-10 1PM,test_esp32_1.0.0.bin:esp32:maxspiffs:1.5MB
